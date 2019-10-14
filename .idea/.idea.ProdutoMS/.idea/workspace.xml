@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ac19627-dcfd-4145-baa2-b70c352f187c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Controllers/CategoryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Repositories/Impl/ProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Repositories/Impl/CategoriaRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/DBContexts/ProductContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Repositories/Interfaces/CategoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Repositories/Interfaces/ProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Repositories/Base/EfRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Repositories/Base/BaseEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Repositories/Base/IAsyncRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6F7983DF-5846-436F-8E9C-B779867785C7/07/b9100fc0/ModelCustomizer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/DBContexts/dataGenerator/msGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Models/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProdutoMS/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/IAsyncRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/Base/IAsyncRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/EfRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Models/Category.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/Base/BaseEntity.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/Base/EfRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/ProductRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/CategoryRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/Interfaces/ProductRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/Interfaces/CategoryRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/Impl/ProductRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Repositories/Impl/CategoriaRepository.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Startup.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Program.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Controllers/CategoryController.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/DBContexts/ProductContext.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/DBContexts/dataGenerator/msGenerator.cs" />
+        <option value="$PROJECT_DIR$/ProdutoMS/Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S4T6OXUQO82ubSOxl0Nk0Rc7zj" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="DockerRegistry" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.ProdutoMS/Dockerfile">
+    <configuration name="ProdutoMS" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ProdutoMS/ProdutoMS.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="ProdutoMS" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoMS: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ProdutoMS/ProdutoMS.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoMS/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="ProdutoMS/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.ProdutoMS/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@46f63bac" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ac19627-dcfd-4145-baa2-b70c352f187c" name="Default Changelist" comment="" />
+      <created>1570821692248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570821692248</updated>
+      <workItem from="1570821696088" duration="6345000" />
+      <workItem from="1571076115996" duration="151000" />
+      <workItem from="1571076290677" duration="474000" />
+      <workItem from="1571076850426" duration="247000" />
+      <workItem from="1571077834734" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ProdutoMS/Controllers/CategoryController.cs</url>
+          <line>21</line>
+          <properties documentPath="$PROJECT_DIR$/ProdutoMS/Controllers/CategoryController.cs" initialLine="20">
+            <startOffsets>
+              <option value="575" />
+            </startOffsets>
+            <endOffsets>
+              <option value="607" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ProdutoMS/Controllers/CategoryController.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/ProdutoMS/Controllers/CategoryController.cs" initialLine="28">
+            <startOffsets>
+              <option value="742" />
+            </startOffsets>
+            <endOffsets>
+              <option value="780" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ProdutoMS/DBContexts/dataGenerator/msGenerator.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/ProdutoMS/DBContexts/dataGenerator/msGenerator.cs" initialLine="12">
+            <startOffsets>
+              <option value="319" />
+            </startOffsets>
+            <endOffsets>
+              <option value="430" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
